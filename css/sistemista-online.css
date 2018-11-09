@@ -1,0 +1,29 @@
+/* Global Styles */
+
+html,
+body {
+    background-color: black;
+    color: #DEDEDE;
+}
+
+h1,h2,h3 {
+	color: #E6B800;
+}
+
+a {
+	color: #E6B800;
+}
+a:hover,a:visited{
+	color: yellow;
+}
+
+.btn-default {
+    color: #eee;
+    background-color: rgba(16, 146, 21, 0.98);
+    border-color: #145814;
+}
+
+.breadcrumb {
+    background-color: #211E1E;
+
+}
